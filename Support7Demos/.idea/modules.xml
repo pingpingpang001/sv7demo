@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Support7Demos.iml" filepath="$PROJECT_DIR$/.idea/Support7Demos.iml" />
+      <module fileurl="file://D:/android-sdk-windows/extras/android/support/v7/appcompat/appcompat.iml" filepath="D:/android-sdk-windows/extras/android/support/v7/appcompat/appcompat.iml" />
+      <module fileurl="file://D:/android-sdk-windows/extras/android/support/v7/cardview/cardview.iml" filepath="D:/android-sdk-windows/extras/android/support/v7/cardview/cardview.iml" />
+      <module fileurl="file://D:/android-sdk-windows/extras/android/support/v7/gridlayout/gridlayout.iml" filepath="D:/android-sdk-windows/extras/android/support/v7/gridlayout/gridlayout.iml" />
+      <module fileurl="file://D:/android-sdk-windows/extras/android/support/v7/mediarouter/mediarouter.iml" filepath="D:/android-sdk-windows/extras/android/support/v7/mediarouter/mediarouter.iml" />
+      <module fileurl="file://D:/android-sdk-windows/extras/android/support/v7/palette/palette.iml" filepath="D:/android-sdk-windows/extras/android/support/v7/palette/palette.iml" />
+      <module fileurl="file://D:/android-sdk-windows/extras/android/support/v7/recyclerview/recyclerview.iml" filepath="D:/android-sdk-windows/extras/android/support/v7/recyclerview/recyclerview.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Support7Demos/Support7Demos.iml" filepath="$PROJECT_DIR$/Support7Demos/Support7Demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sv7demo.iml" filepath="$PROJECT_DIR$/sv7demo.iml" />
+    </modules>
+  </component>
+</project>
